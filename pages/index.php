@@ -38,7 +38,7 @@
     <ul class="navbar-nav ml-auto">
       <li class="nav-item dropdown mr-3">
         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-          <i class="fa fa-user"></i> Welcome John
+          <i class="fa fa-user"></i> Welcome Andrew
         </a>
          <div class="dropdown-menu">
            <a href="profile2.html" class="dropdown-item">
@@ -51,7 +51,12 @@
         </li>
         <li class="nav-item">
           <a href="coverpage2.html" class="nav-link">
-            <i class="fa fa-user-times"></i> Logout
+            <i class="fa fa-user-times"></i> Login
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="coverpage2.html" class="nav-link">
+            <i class="fa fa-user-times"></i> Sign up
           </a>
         </li>
    
